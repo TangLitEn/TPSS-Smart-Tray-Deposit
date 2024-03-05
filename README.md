@@ -194,4 +194,4 @@ Significant changes were made to the initial design to enhance its functionality
 
 ### Conclusion
 
-The SMART TRAY DEPOSIT system, developed by the Tampines Secondary School team with mentorship support, presents an innovative approach to managing tray returns and waste segregation. This documentation outlines the technical framework of the system, providing insights into its operation and the rationale behind design decisions. Through careful integration of hardware and software components, the project exemplifies how technology can be leveraged to solve practical problems in public dining settings.
+This documentation outlines the technical framework of the system, providing insights into its operation and the rationale behind design decisions. Through careful integration of hardware and software components, the project exemplifies how technology can be leveraged to solve practical problems in public dining settings.
