@@ -1,8 +1,10 @@
 ## SMART TRAY DEPOSIT Project Code Documentation
 
-### Introduction
+### Overview
+The SMART TRAY DEPOSIT project is an innovative solution designed to streamline the process of tray return in cafeterias, food courts, and similar dining environments. This project introduces an automated system that encourages diners to return their trays efficiently, thereby promoting cleanliness and operational efficiency. The implementation of this system not only aids in maintaining a cleaner dining area but also reduces the workload on the cleaning staff, making the dining experience more pleasant for everyone involved.
 
-This document provides a detailed overview of the SMART TRAY DEPOSIT system's codebase, a novel initiative by the team at Tampines Secondary School, with guidance from their mentor. The system automates the tray return process in dining facilities, focusing on efficiency and sustainability.
+### Credits
+This project is credited to the talented team from Tampines Secondary School. The idea was conceived and developed by the students as part of their initiative to address the common issue of unreturned trays in dining areas. As a mentor, I have had the privilege of guiding and assisting the team in bringing their innovative idea to life.
 
 ### System Description
 
