@@ -7,8 +7,8 @@
 #include <Servo.h>
 #include "HX711.h"
 
-const char* ssid = "TP-Link_D8F2"; // Replace with your network credentials
-const char* password = "53717221";
+const char* ssid = "YOUR NETWORK SSID"; // Replace with your network credentials
+const char* password = "YOUR NETWORK PASSWORD";
 
 WiFiServer server(80); // Set web server port number to 80
 
